@@ -14,9 +14,3 @@ Features of the Project
 
  
 
-
-Future Work
-      •	Improve model accuracy by experimenting with advanced algorithms.
-      •	Deploy the model using Flask or FastAPI for real-time predictions.
-      •	Add more robust feature selection and engineering techniques.
-
