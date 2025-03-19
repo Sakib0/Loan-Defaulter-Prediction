@@ -7,24 +7,16 @@ Features of the Project
       •	Feature Engineering: Processed and transformed raw data to make it suitable for machine learning models.
       •	Model Building: Trained and evaluated machine learning models to predict loan defaulters.
       •	Evaluation: Assessed model performance using metrics like accuracy, precision, recall, and F1-score.
-      Key Files
+            Key Files
       •	Loan_prediction.ipynb: Jupyter Notebook containing the code for data analysis, visualization, and model building.
       •	Dataset: The dataset used for training and testing the model (not included in the repository for privacy reasons).
       •	Results: Visualizations and metrics summarizing the model's performance.
 
-How to Use
-      1.	Clone the repository:
- 
-git clone https://github.com/your-username/loan-defaulter-prediction.git
-     2.	Install the required dependencies:
- 
-pip install -r requirements.txt
-    3.	Run the Jupyter Notebook:
  
 
 
 Future Work
-•	Improve model accuracy by experimenting with advanced algorithms.
-•	Deploy the model using Flask or FastAPI for real-time predictions.
-•	Add more robust feature selection and engineering techniques.
+      •	Improve model accuracy by experimenting with advanced algorithms.
+      •	Deploy the model using Flask or FastAPI for real-time predictions.
+      •	Add more robust feature selection and engineering techniques.
 
